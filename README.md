@@ -1,4 +1,4 @@
-# Frida Gadget Workspace
+# Frida Gadget
 
 This folder is now split into three useful parts:
 
