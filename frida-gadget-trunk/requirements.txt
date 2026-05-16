@@ -1,0 +1,8 @@
+click
+androguard >= 4.0.0
+apk-signer
+pytest
+colorlog
+coverage
+pylint
+requests
