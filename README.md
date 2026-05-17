@@ -1,4 +1,5 @@
 # Frida Gadget
+jewish modding methods right here
 This folder is now split into three useful parts:
 
 - `frida-gadget-trunk`: the Python APK patcher you already had.
